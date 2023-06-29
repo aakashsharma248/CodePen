@@ -8,6 +8,6 @@ JavaScript</br>
 Codemirror and react-fontawesome library</br>
 
 <h1>Key Features</h1>
-Live Code Editing: Users can write and edit their code in a real-time code editor interface.</br>
-Multiple Language Support: Supports HTML, CSS, and JavaScript, allowing users to write code in multiple programming languages.</br>
-Code Preview: Provides a live preview of the code output, allowing users to see the results of their code in real-time.
+<h3>Live Code Editing</h3>: Users can write and edit their code in a real-time code editor interface.</br>
+<h3>Multiple Language Support</h3>: Supports HTML, CSS, and JavaScript, allowing users to write code in multiple programming languages.</br>
+<h3>Code Preview</h3>: Provides a live preview of the code output, allowing users to see the results of their code in real-time.
